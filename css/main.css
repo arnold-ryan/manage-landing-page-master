@@ -1117,6 +1117,10 @@ body {
     display: flex;
   }
 
+  .lg\:hidden {
+    display: none;
+  }
+
   .lg\:w-1\/4 {
     width: 25%;
   }
